@@ -1,0 +1,32 @@
+.titre {
+
+    color: #0D47A1;
+    
+}
+
+.card1 {
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+
+}
+.card1 h1  {
+    font-weight: bold;
+}
+.card1 p {
+  font-style: italic;
+}
+
+.boi {
+    border-radius: 20px;
+}
+ .rea {
+    font-style: italic;
+    text-decoration: underline  !important;
+    padding-bottom: 15px;
+
+}
+
+hr {
+    height: 4px  !important;
+}
