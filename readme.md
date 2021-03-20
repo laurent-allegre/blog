@@ -1,5 +1,5 @@
 # Blog
-Code source du tutoriel pour créer un blog avec administration. Tutoriel disponible ici: [https://www.nicwalle.com/index.php?page=watch&list=creer-un-blog-20](https://www.nicwalle.com/index.php?page=watch&list=creer-un-blog-20).
+
 
 Voici comment utiliser le code:
 1) Clonez ce repository.
@@ -10,6 +10,3 @@ Voici comment utiliser le code:
 	* Email: admin@localhost
 	* MDP: Password1
 
-Nicwalle
-http://www.nicwalle.com
-"# blog_master" 
